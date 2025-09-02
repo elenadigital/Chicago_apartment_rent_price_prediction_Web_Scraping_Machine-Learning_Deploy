@@ -6,7 +6,7 @@
 
 ## План исследования
 
-1. Сбор данных с сайта по аренде квартир с помощью [веб-скрапинга] (https://github.com/elenadigital/Chicago_apartment_rent_price_prediction_Web_Scraping_Machine-Learning_Deploy/blob/main/web_scrapping_apartmentguide.ipynb)
+1. Сбор данных с сайта по аренде квартир с помощью [веб-скрапинга](https://github.com/elenadigital/Chicago_apartment_rent_price_prediction_Web_Scraping_Machine-Learning_Deploy/blob/main/web_scrapping_apartmentguide.ipynb)
 2. Импорт библиотек и загрузка данных
 3. Предобработка данных
 4. Исследовательский анализ данных:
@@ -54,6 +54,7 @@
 1. Клонируйте репозиторий:
 
 git clone https://github.com/elenadigital/Chicago_apartment_rent_price_prediction_Web_Scraping_Machine-Learning_Deploy.git
+
 cd Chicago_apartment_rent_price_prediction_Web_Scraping_Machine-Learning_Deploy
 
 2. Соберите образ Docker:
